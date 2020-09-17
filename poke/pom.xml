@@ -83,8 +83,6 @@
 							<projectName>Poke API</projectName>
 							<outputDirectory>${project.build.directory}</outputDirectory>
 							<inputDirectory>${project.build.directory}/cucumber-reports</inputDirectory>
-							<skippedFails>true</skippedFails>
-							<enableFlashCharts>true</enableFlashCharts>
 							<jsonFiles>
 								<jsonFile>**/*.json</jsonFile>
 							</jsonFiles>
